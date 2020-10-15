@@ -44,4 +44,4 @@
 #### Pricing tablet design
 ![Pricing Tablet UI design](/screenshot/Mobile/02_SMILESCHOOL_PRICING_mobile@2x.png)
 #### Pricing mobile design
-![Pricing Mobile UI design](/screenshots/Tablet/02_SMILESCHOOL_PRICING_mobile@2x.png)
+![Pricing Mobile UI design](/screenshot/Tablet/02_SMILESCHOOL_PRICING_mobile@2x.png)
